@@ -1,2 +1,2 @@
 install:
-	./update_discord
+	./update_discord.sh
